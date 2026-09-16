@@ -10,7 +10,7 @@ wheels/
 
 # Game files for Asteroids_V1
 Asteroids_V1/Modules/game_state.json
-Asteroids_V1/Modules/game_state.jsonl
+Asteroids_V1/Modules/game_events.jsonl
 
 #Books for BookBot_v1
 BookBot_v1/books/frankenstein.txt
